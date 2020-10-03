@@ -1,5 +1,7 @@
 ## Hacktoberfest Anti-Spam ##
 
+Amazing project.
+
 Every October, Digital Ocean runs a DDoS attack against the free software
 community as part of a marketing campaign. Unfortunately, it seems that they
 are either unwilling or unable to curb [the massive spam issues][spam] on their
