@@ -1,0 +1,24 @@
+{
+  "name": "hacktoberfest-anti-spam",
+  "version": "0.0.0",
+  "description": "Detect and close PRs related to Hacktoberfest and mark them as spam.",
+  "main": "index.js",
+  "private": "true",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyphar/hacktoberfest-anti-spam.git"
+  },
+  "author": "Aleksa Sarai <cyphar@cyphar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyphar/hacktoberfest-anti-spam/issues"
+  },
+  "homepage": "https://github.com/cyphar/hacktoberfest-anti-spam#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.7.0",
+    "luxon": "^1.25.0"
+  }
+}
